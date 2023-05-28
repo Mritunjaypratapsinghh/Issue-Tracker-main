@@ -1,10 +1,10 @@
-#Issue Tracker Application
+## Issue Tracker Application
 This is a Node.js and EJS-based application that allows users to track issues/bugs for a project. It provides a user-friendly interface for managing projects, creating issues, and performing various filtering and searching operations.
 
 # HomePage
 ![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/Screenshot%202023-05-29%20at%2002.05.14.png)
 
-##Features
+## Features
 ![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/repo.png)
 ![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/create%20issue.png)
 ![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/all%20issue.png)
@@ -19,7 +19,8 @@ Accepts the following fields to create a project:
 Name
 Description
 Author
-Project Detail Page
+
+# Project Detail Page
 
 Shows bugs related to a selected project.
 Allows the user to perform the following actions:
@@ -38,7 +39,7 @@ Usage
 Clone the repository:
 
 git clone https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main.git
-Install dependencies:
+# Install dependencies:
 npm install
 Start the application:
 npm start
@@ -49,20 +50,17 @@ Node.js
 Express.js
 EJS (Embedded JavaScript) for templating
 MongoDB for data storage
-Screenshots
-Include relevant screenshots of your application here to showcase its functionality.
-Demo Video
 
 
-Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-License
+# License
 MIT
 
-Contact
+# Contact
 If you have any questions or suggestions, feel free to reach out to Me.
 Replace the placeholders with the actual information related to your project, such as the repository URL, technologies used, screenshots, and contact details.
 
