@@ -1,10 +1,15 @@
-Issue Tracker Application
+##Issue Tracker Application
 This is a Node.js and EJS-based application that allows users to track issues/bugs for a project. It provides a user-friendly interface for managing projects, creating issues, and performing various filtering and searching operations.
 
-Features
+##Home Page
+![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/Screenshot%202023-05-29%20at%2002.05.14.png)
 
+##Features
+![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/repo.png)
+![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/create%20issue.png)
+![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/all%20issue.png)
+![Home Page](https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main/blob/main/Readme-images/filter%20issue.png)
 
-Home Page
 
 Displays a list of projects.
 Provides a button to create a new project.
