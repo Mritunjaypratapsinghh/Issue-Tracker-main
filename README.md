@@ -1,1 +1,77 @@
-# Issue-Tracker-main
+Issue Tracker Application
+This is a Node.js and EJS-based application that allows users to track issues/bugs for a project. It provides a user-friendly interface for managing projects, creating issues, and performing various filtering and searching operations.
+
+Features
+
+
+Home Page
+
+Displays a list of projects.
+Provides a button to create a new project.
+Create Project Page
+
+Accepts the following fields to create a project:
+Name
+Description
+Author
+Project Detail Page
+
+Shows bugs related to a selected project.
+Allows the user to perform the following actions:
+Filter bugs by multiple labels simultaneously.
+Filter bugs by author.
+Search bugs by title and description.
+Create a new issue for the project.
+Create Issue Page
+
+Allows the user to create an issue for a project.
+Accepts the following fields:
+Title
+Description
+Labels (supports adding multiple labels to a project)
+Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/issue-tracker.git
+Install dependencies:
+
+Copy code
+npm install
+Start the application:
+
+sql
+Copy code
+npm start
+Access the application in your web browser:
+
+arduino
+Copy code
+http://localhost:8000
+Technologies Used
+Node.js
+Express.js
+EJS (Embedded JavaScript) for templating
+MongoDB for data storage
+Screenshots
+Include relevant screenshots of your application here to showcase its functionality.
+Demo Video
+Provide a link to the video recording of your application's walkthrough.
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+License
+MIT
+
+Contact
+If you have any questions or suggestions, feel free to reach out to Your Name.
+Replace the placeholders with the actual information related to your project, such as the repository URL, technologies used, screenshots, and contact details.
+
+Remember to include relevant screenshots and provide a link to the video recording of your application's walkthrough. Additionally, specify any instructions or guidelines for potential contributors to follow.
+
+Make sure to update the license section with the appropriate license for your project. In this example, it uses the MIT license, but you can choose a different license if desired.
+
+Feel free to customize the README file further to provide more details about your application, its architecture, deployment instructions, or any other relevant information that would be helpful for users and contributors.
