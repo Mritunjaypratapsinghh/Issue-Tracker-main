@@ -32,22 +32,12 @@ Labels (supports adding multiple labels to a project)
 Usage
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/issue-tracker.git
+git clone https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main.git
 Install dependencies:
-
-Copy code
 npm install
 Start the application:
-
-sql
-Copy code
 npm start
 Access the application in your web browser:
-
-arduino
-Copy code
 http://localhost:8000
 Technologies Used
 Node.js
@@ -57,7 +47,8 @@ MongoDB for data storage
 Screenshots
 Include relevant screenshots of your application here to showcase its functionality.
 Demo Video
-Provide a link to the video recording of your application's walkthrough.
+
+
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -67,11 +58,6 @@ License
 MIT
 
 Contact
-If you have any questions or suggestions, feel free to reach out to Your Name.
+If you have any questions or suggestions, feel free to reach out to Me.
 Replace the placeholders with the actual information related to your project, such as the repository URL, technologies used, screenshots, and contact details.
 
-Remember to include relevant screenshots and provide a link to the video recording of your application's walkthrough. Additionally, specify any instructions or guidelines for potential contributors to follow.
-
-Make sure to update the license section with the appropriate license for your project. In this example, it uses the MIT license, but you can choose a different license if desired.
-
-Feel free to customize the README file further to provide more details about your application, its architecture, deployment instructions, or any other relevant information that would be helpful for users and contributors.
