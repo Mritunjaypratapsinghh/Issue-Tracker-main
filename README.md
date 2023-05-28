@@ -36,7 +36,7 @@ Title
 Description
 Labels (supports adding multiple labels to a project)
 Usage
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main.git
 # Install dependencies:
@@ -62,5 +62,4 @@ MIT
 
 # Contact
 If you have any questions or suggestions, feel free to reach out to Me.
-Replace the placeholders with the actual information related to your project, such as the repository URL, technologies used, screenshots, and contact details.
 
