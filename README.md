@@ -20,7 +20,7 @@ Name
 Description
 Author
 
-# Project Detail Page
+## Project Detail Page
 
 Shows bugs related to a selected project.
 Allows the user to perform the following actions:
@@ -36,10 +36,10 @@ Title
 Description
 Labels (supports adding multiple labels to a project)
 Usage
-# Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/Mritunjaypratapsinghh/Issue-Tracker-main.git
-# Install dependencies:
+## Install dependencies:
 npm install
 Start the application:
 npm start
@@ -52,14 +52,14 @@ EJS (Embedded JavaScript) for templating
 MongoDB for data storage
 
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-# License
+## License
 MIT
 
-# Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out to Me.
 
